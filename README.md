@@ -3,6 +3,7 @@ This interactive database was built for the [Registre des Maladies Trophoblastiq
 
 # Requirement
 FileMaker Pro v15
+Internet connexion (dynamic plot)
 
 # Reference
 [Sauthier P, Breguet M, Rozenholc A, Sauthier M. Quebec Trophoblastic Disease Registry. Int J Gynecol Cancer. 2015;25(4):729-733](https://ijgc.bmj.com/content/25/4/729.long)
