@@ -1,5 +1,5 @@
 # Trophoblastic Disease Registry
-This interactive database was built for the [Registre des Maladies Trophoblastiques du Québec (RMTQ)](https://www.rmtq.ca/). It includes automatic staging (Kohorn 2009 or FIGO 2009), ß-hCG logarithmic plot with treatments visualization (chemotherapy and surgery) and an automatic summary letter.
+This interactive database was built for the [Registre des Maladies Trophoblastiques du Québec (RMTQ)](https://www.rmtq.ca/). It includes automatic staging (Kohorn 2009 or FIGO 2009), ß-hCG logarithmic plot with treatments visualization (chemotherapy, surgery and radiotherapy) and an automatic summary letter.
 
 # Requirement
 
